@@ -1,0 +1,3 @@
+# Pantheon
+***
+Gnomes are typically unconcerned with the beliefs of the other races. They instead simply have an extreme passion and zest for the things around them. Gnomes often physically, magically, and emotionally embody some aspect of their environment. (Heavy inspiration from Yordles in League of Legends.) This tendency of Gnomes to adhere themselves to a facet of the world often leads every Gnome to have their own "creation myth". For example, a Gnome born amongst a dwarven jewlers may believe

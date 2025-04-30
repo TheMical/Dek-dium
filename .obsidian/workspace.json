@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "b596f0ba73831b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "8133741cf65209f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a5b48975e2061c6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Maps/Bygone Valley.png"
+              },
+              "icon": "lucide-image",
+              "title": "Bygone Valley"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74e7853ace761bd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f2b80bf818ecae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a09b3d1f4bcbeb38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5fd3d01da928256b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "33d0539bbc7fca67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.49999618530273
+  },
+  "right": {
+    "id": "c282963b0675b634",
+    "type": "split",
+    "children": [
+      {
+        "id": "838a9cb546da3ef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad6e593c7bf77135",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Testing/Testing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Testing"
+            }
+          },
+          {
+            "id": "d1d0961c52348389",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Testing/Testing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Testing"
+            }
+          },
+          {
+            "id": "15695b8f00ca4d7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0247837dd08c2631",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Images/Maps/Bygone Valley.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bygone Valley"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a09b3d1f4bcbeb38",
+  "lastOpenFiles": [
+    "Images/Maps/Tarsalstead.png",
+    "Images/Maps/Bygone Valley.png",
+    "Bygone Valley/Region Map.png",
+    "Images/Untitled.md",
+    "Images/Maps",
+    "Images",
+    "Bygone Valley/Locations/Tarsalstead.md",
+    "M-Lab Peeps/Players/Rhen.md",
+    "M-Lab Peeps/Players/Anarion.md",
+    "M-Lab Peeps/Players/Yama.md",
+    "M-Lab Peeps/Players/Hjalmar Stone-shaper.md",
+    "M-Lab Peeps",
+    "M-Lab Peeps/Players",
+    "Bygone Valley/Locations/The Dark Tower.md",
+    "Bygone Valley/Factions/Bygone Order.md",
+    "Bygone Valley/Locations/Mulderset.md",
+    "Bygone Valley/Factions/Ssth'kari Tribe.md",
+    "Bygone Valley/Locations/Thul Kuldor.md",
+    "Bygone Valley/Factions/Warband.md",
+    "Bygone Valley/Factions/The Bog Mothers.md",
+    "Pasted image 20250430153535.png",
+    "Bygone Valley/Factions",
+    "Bygone Valley/Locations/Alaeluna.md",
+    "Species/Dwarf.md",
+    "Bygone Valley/Locations",
+    "Bygone Valley/Map.png",
+    "Bygone Valley/Map.md",
+    "Bygone Valley",
+    "Species/Gnome.md",
+    "Species/Dragonborn.md",
+    "Species/Elf.md",
+    "Tiefling.md",
+    "Species/Halfling.md",
+    "Species/Human.md",
+    "Species",
+    "Assets/08. Player Characters/asdasdasd.md",
+    "Test/Test.md",
+    "Assets/08. Player Characters",
+    "Assets",
+    "Testing/Testasdasdsad.md"
+  ]
+}

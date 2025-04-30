@@ -1,0 +1,6 @@
+- Old Man - High Elf
+- Dead Family
+- Novice in necromancy before tragedy struck, leading him to delve further into his work.
+- Became further good aligned and empathetic after the death of his family. He is a grave cleric.
+- Dragon burned down village
+- He is extremely old and at risk of dying of old age in the coming years. Leading him to dive even deeper into his necromancy pondering a potential cure to aging.

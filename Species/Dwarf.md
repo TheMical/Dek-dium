@@ -1,0 +1,7 @@
+# Pantheon
+
+Dwarves are typically monotheistic and believe they were created by their god. Dwarves attribute their hardiness, industriousness, and workmanship to traits bestowed upon them upon creation. Dwarves are typically happy with this perception of themselves and believe whatever they do has purpose as they must have been created to do it for a reason.
+
+This god is known to dwarves as Khazadune, roughly translated to "Architect of Mountains". His aliases include "The All-Father", "Dwarf-father", and "The One within the Mountain". Khazadune is often depicted as a colossal giant, always within a massive cavern or underground stronghold. Depictions of Khazadune typically show him crouched over a forge or recently created dwarves. Khazadune is depicted as a variety of species, sometimes he is depicted as a giant dwarf, sometimes he is depicted with Giant-like features, and sometimes he is depicted as completely inhuman or simply a silhouette.  
+  
+Dwarves believe Khazadune to be alive, deep within Olor Morndin, or the "Peak of the World", the oldest and largest mountain in the entirety of Dekádium, alongside his other creation the Giants. Dwarves do not visit Olor Morndin as they must not return until their work is finished, whatever that work may be. Some Dwarves, at the end of their life-span, make pilgrimage to Olor Morndin to pay tribute to their creator.
