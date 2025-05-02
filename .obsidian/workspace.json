@@ -11,12 +11,14 @@
             "id": "7a5b48975e2061c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Maps/Bygone Valley.png"
+                "file": "Regions/Bygone Valley/Locations/Tarsalstead.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Bygone Valley"
+              "icon": "lucide-file",
+              "title": "Tarsalstead"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Maps/Bygone Valley.png",
+                "file": "Regions/Bygone Valley/Locations/Tarsalstead.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bygone Valley"
+              "title": "Outline of Tarsalstead"
             }
           }
         ],
@@ -166,47 +168,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a09b3d1f4bcbeb38",
+  "active": "7a5b48975e2061c6",
   "lastOpenFiles": [
-    "Images/Maps/Tarsalstead.png",
-    "Images/Maps/Bygone Valley.png",
-    "Bygone Valley/Region Map.png",
+    "Regions/Bygone Valley/Locations/Alaeluna.md",
+    "Regions/Bygone Valley/Factions/Bygone Order.md",
+    "Pantheon/Dwarf/Khazadune.md",
+    "Regions/The Forgotten Isle/Locations/Seaman's Folly.md",
+    "Pantheon/Dwarf",
+    "Regions/The Forgotten Isle/Locations/The Ruined Marsh.md",
+    "Regions/The Forgotten Isle/Locations",
+    "Regions/The Forgotten Isle/Factions",
+    "Regions/Bygone Valley/Factions/Ssth'kari Tribe.md",
+    "Species/Dragonborn.md",
+    "Pantheon/Human",
+    "Regions/The Forgotten Isle",
+    "Campaigns/Bygone T-Team/Players",
+    "Utility",
+    "Campaigns/Bygone T-Team",
+    "Regions",
+    "Campaigns/As Above Night Below/Players/Player.md",
+    "Regions/Bygone Valley/Region Map.png",
+    "Campaigns/Bygone M-Lab/Players/Anarion.md",
+    "Campaigns/Bygone M-Lab/Players/Hjalmar Stone-shaper.md",
+    "Campaigns/Bygone M-Lab/Players/Yama.md",
+    "Campaigns/Bygone M-Lab/Players/Rhen.md",
+    "Campaigns",
+    "Utility/Templates/Players.md",
+    "Pantheon/Human/Thatos.md",
+    "Major NPCs/Gurvetal.md",
+    "Major NPCs/Ghylsshara.md",
+    "Utility/Images/Maps/Bygone Valley.png",
+    "Utility/Images/Maps/Tarsalstead.png",
     "Images/Untitled.md",
-    "Images/Maps",
-    "Images",
-    "Bygone Valley/Locations/Tarsalstead.md",
-    "M-Lab Peeps/Players/Rhen.md",
-    "M-Lab Peeps/Players/Anarion.md",
-    "M-Lab Peeps/Players/Yama.md",
-    "M-Lab Peeps/Players/Hjalmar Stone-shaper.md",
-    "M-Lab Peeps",
-    "M-Lab Peeps/Players",
-    "Bygone Valley/Locations/The Dark Tower.md",
-    "Bygone Valley/Factions/Bygone Order.md",
-    "Bygone Valley/Locations/Mulderset.md",
-    "Bygone Valley/Factions/Ssth'kari Tribe.md",
-    "Bygone Valley/Locations/Thul Kuldor.md",
-    "Bygone Valley/Factions/Warband.md",
-    "Bygone Valley/Factions/The Bog Mothers.md",
+    "Regions/Bygone Valley/Locations/Tarsalstead.md",
+    "Regions/Bygone Valley/Locations/The Dark Tower.md",
+    "Regions/Bygone Valley/Locations/Mulderset.md",
+    "Regions/Bygone Valley/Locations/Thul Kuldor.md",
+    "Regions/Bygone Valley/Factions/Warband.md",
+    "Regions/Bygone Valley/Factions/The Bog Mothers.md",
     "Pasted image 20250430153535.png",
-    "Bygone Valley/Factions",
-    "Bygone Valley/Locations/Alaeluna.md",
     "Species/Dwarf.md",
-    "Bygone Valley/Locations",
     "Bygone Valley/Map.png",
     "Bygone Valley/Map.md",
-    "Bygone Valley",
-    "Species/Gnome.md",
-    "Species/Dragonborn.md",
-    "Species/Elf.md",
-    "Tiefling.md",
-    "Species/Halfling.md",
-    "Species/Human.md",
-    "Species",
-    "Assets/08. Player Characters/asdasdasd.md",
-    "Test/Test.md",
-    "Assets/08. Player Characters",
-    "Assets",
-    "Testing/Testasdasdsad.md"
+    "Species/Gnome.md"
   ]
 }
