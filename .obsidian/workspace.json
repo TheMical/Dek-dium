@@ -11,14 +11,12 @@
             "id": "875f92d3ce34c19d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Campaigns/As Above Night Below/Tokhus Handout.md",
-                "mode": "source",
-                "source": false
+                "file": "Campaigns/As Above Night Below/Handouts/Tokhus-PlayerHandout.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Tokhus Handout"
+              "icon": "lucide-file-text",
+              "title": "Tokhus-PlayerHandout"
             }
           }
         ]
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/As Above Night Below/Tokhus Handout.md",
+                "file": "Campaigns/As Above Night Below/Handouts/Tokhus-PlayerHandout.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tokhus Handout"
+              "title": "Outline of Tokhus-PlayerHandout"
             }
           },
           {
@@ -163,6 +161,16 @@
           },
           {
             "id": "73228b6e6cbad199",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c4825dfc3a4fb487",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -191,32 +199,32 @@
   },
   "active": "875f92d3ce34c19d",
   "lastOpenFiles": [
-    "Regions/Haranshire/Locations/The Shrieken Mire.md",
-    "Regions/Haranshire/Locations",
     "Campaigns/As Above Night Below/Tokhus Handout.md",
-    "Regions/Haranshire",
+    "LaTeX/Tokhus-PlayerHandout.pdf",
+    "Campaigns/As Above Night Below/Handouts/Tokhus-PlayerHandout.pdf",
+    "Campaigns/As Above Night Below/Handouts",
+    "Campaigns/As Above Night Below/Players",
+    "LaTeX/Tokhus-PlayerHandout/Tokhus-PlayerHandout.tex",
+    "LaTeX/Tokhus-PlayerHandout/Tokhus-PlayerHandout.synctex.gz",
+    "LaTeX/Tokhus-PlayerHandout/Tokhus-PlayerHandout.pdf",
+    "LaTeX/Tokhus-PlayerHandout/Tokhus-PlayerHandout.log",
+    "LaTeX/Tokhus-PlayerHandout/Tokhus-PlayerHandout.fls",
+    "LaTeX/Tokhus-PlayerHandout/Tokhus-PlayerHandout.fdb_latexmk",
+    "Regions/Haranshire/Locations/The Shrieken Mire.md",
     "Regions/Bygone Valley/Factions/Ssth'kari Tribe.md",
     "Regions/Bygone Valley/Factions/The Bog Mothers.md",
     "Regions/Bygone Valley/Factions/Bygone Order.md",
     "Major NPCs/Gurvetal.md",
     "Major NPCs/Ghylsshara.md",
     "Campaigns/As Above Night Below/Synopsis.md",
-    "Campaigns/As Above Night Below/Untitled",
     "Regions/Bygone Valley/Locations/Alaeluna.md",
     "Regions/Bygone Valley/Locations/Mulderset.md",
     "Regions/Bygone Valley/Locations/The Dark Tower.md",
     "Regions/Bygone Valley/Locations/Tarsalstead.md",
     "Pantheon/Dwarf/Khazadune.md",
     "Regions/The Forgotten Isle/Locations/Seaman's Folly.md",
-    "Pantheon/Dwarf",
     "Regions/The Forgotten Isle/Locations/The Ruined Marsh.md",
-    "Regions/The Forgotten Isle/Locations",
-    "Regions/The Forgotten Isle/Factions",
     "Species/Dragonborn.md",
-    "Pantheon/Human",
-    "Regions/The Forgotten Isle",
-    "Campaigns/Bygone T-Team/Players",
-    "Utility",
     "Campaigns/As Above Night Below/Players/Player.md",
     "Regions/Bygone Valley/Region Map.png",
     "Campaigns/Bygone M-Lab/Players/Anarion.md",

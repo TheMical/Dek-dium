@@ -1,20 +1,64 @@
-# The Marsh-Born
+\documentclass[letterpaper,twocolumn,openany,nodeprecatedcode,bg=full]{dndbook}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage{listings}
+\usepackage{shortvrb}
+\usepackage{stfloats}
+\usepackage[export]{adjustbox}
+\usepackage{wrapfig,graphicx,lipsum}
+\graphicspath{{../pdf/}{~/Pictures/DnD/}}
+
+\captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
+
+\MakeShortVerb{|}
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+  breaklines=true,
+}
+
+\geometry{
+    top=0.5in,
+    bottom=0.6in,
+    left=0.5in,
+    right=0.5in
+}
+\thispagestyle{empty}
+\renewcommand{\normalsize}{\fontsize{9.5}{10.4}\selectfont}
+
+\begin{document}
+
+\mainmatter%
+
+\chapter{Tokhus - Player Handout}
+
+\DndDropCapLine{T}{his document provides an account of the events and lore your character, Tokhus, knows prior to the campaign. It describes Tokhus' origins among Marsh-Born clan, his homeland within the Shrieken Mire, and his people's history with nearby settlements. Additionally, it recounts the events following Tokhus' entry into a strange ruin that had risen out of the Mire.}
+
+\section{The Marsh-Born}
 Tokhus was born among the Marsh‑Born, a small lizardfolk clan that lived deep within Shrieken Mire off the coast of Haranshire. After a violent raid by mercenaries from Thurmaster, a nearby human settlement, some forty years ago, the clan kept its distance from humans and other outsiders. They lived within half‑submerged huts among cypress roots, hunted fish and marsh game, and kept to a simple life of predominantly survival. Pivotal to the clans culture was reverence for She-Who-Dreams, a green dragon who claims the Mire as her domain. Each night the clan’s egg‑singers recited the laws of reverence while an offering of food was carried to her mound.
-# Haranshire
+
+\section{Haranshire}
 Haranshire is a modestly populated peninsula located on the southwestern rim of Dekadium. Roughly thirty miles long, Haranshire is cut off from the main land by mountains to the north, scattered by low wooded hills, and threaded by the Haran River. Haranshire isn't blessed with much good agricultural land, and there is much wild land—woods and hills, marsh and moor, so sheep pastures, small crop fields, and a few silver‑and‑gem mines support its scattered settlements.
-# The Shrieken Mire
+
+\section{The Shrieken Mire}
 This extensive marshland (pronounced "shry-kunn") derives its name from Lord Artran Shrieken, once of Milbome, a cruel and heartless villain who attempted to force one of the young Parlfray women to marry him. She fled into the mire with her paramour, and Shrieken pursued her, only to meet a watery end in one of the marsh's more dangerous areas. The area has had a sinister, and well-deserved, reputation ever since. Treacherous, uncertain footing and hidden pools of water can suck a person or horse down in an instant. Poisonous snakes are plentiful here, and in summer the mosquitoes and other insects of the marsh are irritating and potentially dangerous. There are many local yams about Shrieken's curse, claiming that his restless spirit wanders the mire, bemoaning its fate and seeking to strangle the life out of any who come here. Certainly livestock does disappear now and then, though this is mostly blamed on the lizard men who dwell deep in the mire.
 
- Inzeldrin, an Old green dragon, considers herself the Queen of the Mire. She sleeps most of the time and, while evil, she doesn't seem to go raiding and pillaging. Likely satisfied with the obeisance and offerings she receives from the lizard men, Inzeldrin ignores the people and livestock outside her little "kingdom".
+Inzeldrin, an Old green dragon, considers herself the Queen of the Mire. She sleeps most of the time and, while evil, she doesn't seem to go raiding and pillaging. Likely satisfied with the obeisance and offerings she receives from the lizard men, Inzeldrin ignores the people and livestock outside her little "kingdom".
 
 A more recent oddity of Shrieken Mire, the origins of which is known by none of its inhabitants, is the emergence of strange ruins scattered all across the marshland. Pale stone doorways edged with weather‑tarnished gold and silver, collapsed stairwells, and lone pale columns rise from the peat, their clean lines unlike any local craft. Wildlife avoids these sites, and the surrounding water runs slightly warm. No one yet knows where the ruins came from or what they might contain.
-# Thurmaster
+
+\section{Thurmaster}
 Thurmaster is a walled village of some 100 people. Abandoned houses, now falling into ruin, lie outside the rickety wooden walls surrounding the village. The walls were built some 40 years past as a defense against the then-marauding lizard men of the Shrieken Mire. Led by a ferocious lizard king, the creatures killed scores of villagers and farmers—fully half the town's population—until Count Parlfray hired a band of powerful fighters to track down and kill their leader. Since this time, the lizard men have become much more reclusive and tend to flight if they see any humans or demihumans; they clearly have memories of the battle when the fighters wiped out nearly a hundred of their number. Fishing, agriculture, harvesting of marsh reeds and hay, and light forestry on the margins of the Blessed Wood are the activities from here.
-# The Story So Far...
+
+\section{The Story So Far}
 After Tokhus uncovered the flooded chamber buried within the Mire, a strange ruin constructed of a pale stone unlike anything he had seen, and spent a year chipping its stone door with a pickaxe, he made his way inside the strange chamber. Inside, the air was still and a large entity filled the room. Slowly, a colossal serpent unfurled, possessing white scales edged with gold and large green eyes. Surging out in a blur it struck him full in the face, the venom scalding his sight to darkness.
 
 Tokhus staggered sightless through the swamp for days, surviving on instinct until hunters of his own clan found him. Expecting guidance home and healing, instead Tokhus was met with rope and net.
 
-For reasons Tokhus still does not understand, he was bound and forced to fight in a crude arena against strange fiends captured near the new ruins. While other prisoners died or were taken away, he simply continued to survive.
+For reasons Tokhus still does not understand, he was bound, kidnapped, and forced to fight in a crude arena against strange fiends captured near the new ruins. While other prisoners died or were taken away, he simply continued to fight and survive.
 
 And thus our story begins with Tokhus in the now familiar standby cage as he hears people approaching...
+
+\end{document}
