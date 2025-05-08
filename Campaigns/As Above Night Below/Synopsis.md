@@ -1,0 +1,43 @@
+The grand design for subduing all of the above-ground lands—the central evil scheme of Night Below—originates with the most powerful denizens of the Sunless Sea, the Aboleth Savants. These creatures hunger after power and dominion; to that end, they are constructing a great magical artifact, the Tower of Domination. This massive artifact will permit the aboleth to extend their innate power of domination for hundreds of miles, allowing them to subdue all surface creatures without any need for battle, risk, or traveling to the surface (a prospect they abhor). To create this artifact, they must sacrifice many magic-using creatures of the kinds they intend to dominate. Thus, their surface servants kidnap mages and priests in particular, bringing them to the far depths of the aboleth city to meet their wretched fate. The aboleth are intelligent enough not to have their servants kidnap only mages and priests, for that might give the game away, but for the most part only spellcasters make the long journey to Great Shaboath (though some captives with underground or construction skills accompany them for use as stave labor). All others are disposed of as their surface servants see fit. Many of these surface servants—bandits, thieves, a cell of evil priests, and orcs among others—are themselves controlled through potions of domination which the aboleth have crafted.
+
+This enterprise is not without complications, however. Other underdark races have parts to play in this developing picture. A tactical resume of their roles is followed by a brief synopsis of how the campaign will probably develop.
+
+The Derro
+
+The savant aboleth are working with Darlakanand, a renegade Derro of exceptional genius and rare magical skills. Darlakanand is himself driven by the Derro demi power Diinkarazan, the mad Power (see Monster Mythology), and is unpredictable and capricious. This singular Derro hates his own people for what he perceives as their rejection of his genius, and he works to subjugate them to the domination of the aboleth (and himself). Some Derro clans are aware of this, and for this reason they wage a guerrilla war with the aboleth. The PCs might be able to ally with these Derro. Other Derro dans are not aware of Darlakanand's history and ulterior purpose, and they have allied with the aboleth because they, too, hate surface races. These Derro act as messengers and guards, and they are obstacles to the PCs reaching the Sunless Sea. Last but not least, a third set of Derro were driven insane from the results of early enchanting efforts by Darlakanand, which resulted in a rare appearance by die stalking avatar of Diinkarazan. These Derro represent a wild card for the DM to use as he or she wishes. The PCs cannot ally with them, but by playing on their paranoia they just might be able to turn them into a thorn in the side of the aboleth.
+
+The Ilithids
+
+The illithids of the underdark are well aware of what the aboleth are doing. They, too, are divided in their attitudes. The largest faction are all in favor of what the aboleth are planning. They hate the surface races, and they see themselves as the ones who will be able to con¬ trol the subdued surface races directly, for they venture dose to the surface world when the aboleth do not. This means lots of good food! These illithids make tire arro¬ gant mistake of believing that their magic resistance will protect them against the aboleth device. They act in concert with the aboleth. There are many of them in the settlements of the Sunless Sea, and they operate as mes¬ sengers between the aboleth and the kuo-toa in particu¬ lar. They will be implacably hostile to the PCs.
+
+The minority view is that the aboleth are very dan¬ gerous and may end up dominating the illithids along with everyone else. There are groups of illithids who have already made contingency plans for destroying the Tower when it is dose to completion. This group has given its major effort over to obtaining every scrap of information on the aboleth dty of the Sunless Sea, Great Shaboath. PCs could ally with these illithids and gain help from them, especially with maps, logistics, and tactical support. These illithids can be trusted, up to a point. They are lawful, and they will be delighted to find that they don't have to take all the risks themselves, that a bunch of
+
+4
+
+ttlelcome to flie 6ran& Dungeon
+
+easily-manipulated patsies—er, "allies"—from the surface world can be persuaded to do some of the dirty work. This is not to say that the small print of any agreement with these genius-level creatures should not be stud ied carefully; of course.
+
+The Svirfneblin
+
+The Svirfneblin know that some force in the underdark is up to something very, very bad, but they do not know exactly what. They know of an illithid/kuo-'toan alliance, they know that magical research is involved, they know that as a rule only magic-using humans and demihumans are taken "Below," and they have maps of much of the underdark. Most importantly, these lit¬ tle folk can provide the PCs with a safe base to work from. However, to earn the Svirfneblin's help, the PCs must earn their respect and trust.
+
+The deep gnomes have learned that far too many dungeon-delvers have depressingly short life spans. They want to know that anyone they take into their trust deserves it. Thus, they may give PCs partial or even slightly misleading information which may expose the PCs to what the Svirfneblin consider fair risks, to see if the PCs are good enough to cut the mustard in the dangerous depths.
+
+To complicate matters further, these Svirfneblin hate Derro with a deep passion. They have a variant set of mythological beliefs in which the Derro are their arch-enemies. If the PCs negotiate with Derro (and there comes a time when this would be very wise), the Svirfneblin will abandon them if they find out about it. There are also magical treasures that would greatly aid the PCs hidden beyond catacombs which the Svirfneblin regard as a sacred site; violating tha t taboo will alienate the Svirfneblin, while failure to do so deprives the PCs of badly needed magic. The PCs will have to try to find ways to negotiate with the deep gnomes to avoid offending their sensibilities. While the deep gnomes are good, trustworthy, and helpful people, the PCs must constantly work hard and use their wits to maintain a cordial alliance with them.
+
+The Kuo-Toa
+
+Here, at least, life is more simple. The kuo-toa are firmly allied with the aboleth, and their fortress, the City of the Glass Pool, protects the entrance to the great cavern of the Sunless Sea. These are sword fod¬ der, and extremely nasty sword fodder at that. They are also allied with the dominant Derro and illithid factions and with the Ixzan. The kuo-toa attack any¬ one else on sight. Negotiation and diplomacy will not avail to win over these enemies.
+
+The Ixzan (Ixitxachitl)
+
+Tlie Ixzan are an underdark freshwater version of the ixitxachitl. Like the kuo-toa, they are faithful allies of the aboleth. Die Ixzan are vicious and dangerous opponents, with many vampires and spell-users among their ranks, adding their magical skills to the physical prowess of the kuo-toa.
+
+The Rockseers
+
+The most enigmatic of the underdaik races are the Rockseer elves. Tall and very slender, the Rockseers are a splinter clan of elves which believes itself to have fled from die surface world in fear when Corellon defeated Lolth in the great battle of elven legend. They are extremely seclusive, knowing nothing of other elves save for the Drow. The Rockseers are a unique resource, for they know of secret ways and magical flux points which no other race has discovered. If they can some¬ how gain help from the Rockseers, the PCs can bypass certain obstacles and learn secrets which will enable themselves to retreat and effectively vanish when they are engaged in hit-and-run strikes on Shaboath. The Rockseers have elements of tragedy and nobility in their history and make-up, and the PCs can (and should) help them as much as they in him can help the PCs. More is revealed about the Rockseers in Book 11 and in the Monstrous Compendium entry included in this box.
+
+The Tanar'ri and the Baatezu
+
+As they near the end of the adventure, die PCs may encounter a small group of tanar’ri and another of baatezu. The tanar'ri are few in number but dedicated to an attack on Shaboath; they seek to ally with the PCs. Die baatezu are a pit fiend with his entourage, sent as an emissary to the aboleth; they are neutral toward the PCs and attempt to manipulate the chaos caused by the PCs' incursions to their own advantag
