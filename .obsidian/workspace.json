@@ -157,6 +157,16 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "73228b6e6cbad199",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
@@ -179,15 +189,17 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a09b3d1f4bcbeb38",
+  "active": "875f92d3ce34c19d",
   "lastOpenFiles": [
+    "Regions/Haranshire/Locations/The Shrieken Mire.md",
+    "Regions/Haranshire/Locations",
+    "Campaigns/As Above Night Below/Tokhus Handout.md",
+    "Regions/Haranshire",
     "Regions/Bygone Valley/Factions/Ssth'kari Tribe.md",
     "Regions/Bygone Valley/Factions/The Bog Mothers.md",
     "Regions/Bygone Valley/Factions/Bygone Order.md",
     "Major NPCs/Gurvetal.md",
     "Major NPCs/Ghylsshara.md",
-    "Campaigns/As Above Night Below/Tokhus Handout.md",
-    "Campaigns/As Above Night Below/The Shrieken Mire.md",
     "Campaigns/As Above Night Below/Synopsis.md",
     "Campaigns/As Above Night Below/Untitled",
     "Regions/Bygone Valley/Locations/Alaeluna.md",
@@ -205,8 +217,6 @@
     "Regions/The Forgotten Isle",
     "Campaigns/Bygone T-Team/Players",
     "Utility",
-    "Campaigns/Bygone T-Team",
-    "Regions",
     "Campaigns/As Above Night Below/Players/Player.md",
     "Regions/Bygone Valley/Region Map.png",
     "Campaigns/Bygone M-Lab/Players/Anarion.md",
@@ -219,7 +229,6 @@
     "Utility/Images/Maps/Tarsalstead.png",
     "Images/Untitled.md",
     "Regions/Bygone Valley/Locations/Thul Kuldor.md",
-    "Regions/Bygone Valley/Factions/Warband.md",
     "Pasted image 20250430153535.png",
     "Bygone Valley/Map.png"
   ]
