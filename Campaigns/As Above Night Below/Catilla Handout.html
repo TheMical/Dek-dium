@@ -1,0 +1,123 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Catilla Handout</title>
+        <meta charset='utf-8'/>
+        <style>
+ .ͼ1.cm-focused {outline: 1px dotted #212121;}
+.ͼ1 {position: relative !important; box-sizing: border-box; display: flex !important; flex-direction: column;}
+.ͼ1 .cm-scroller {display: flex !important; align-items: flex-start !important; font-family: monospace; line-height: 1.4; height: 100%; overflow-x: auto; position: relative; z-index: 0; overflow-anchor: none;}
+.ͼ1 .cm-content[contenteditable=true] {-webkit-user-modify: read-write-plaintext-only;}
+.ͼ1 .cm-content {margin: 0; flex-grow: 2; flex-shrink: 0; display: block; white-space: pre; word-wrap: normal; box-sizing: border-box; min-height: 100%; padding: 4px 0; outline: none;}
+.ͼ1 .cm-lineWrapping {white-space: pre-wrap; white-space: break-spaces; word-break: break-word; overflow-wrap: anywhere; flex-shrink: 1;}
+.ͼ2 .cm-content {caret-color: black;}
+.ͼ3 .cm-content {caret-color: white;}
+.ͼ1 .cm-line {display: block; padding: 0 2px 0 6px;}
+.ͼ1 .cm-layer > * {position: absolute;}
+.ͼ1 .cm-layer {position: absolute; left: 0; top: 0; contain: size style;}
+.ͼ2 .cm-selectionBackground {background: #d9d9d9;}
+.ͼ3 .cm-selectionBackground {background: #222;}
+.ͼ2.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #d7d4f0;}
+.ͼ3.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #233;}
+.ͼ1 .cm-cursorLayer {pointer-events: none;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer {animation: steps(1) cm-blink 1.2s infinite;}
+@keyframes cm-blink {50% {opacity: 0;}}
+@keyframes cm-blink2 {50% {opacity: 0;}}
+.ͼ1 .cm-cursor, .ͼ1 .cm-dropCursor {border-left: 1.2px solid black; margin-left: -0.6px; pointer-events: none;}
+.ͼ1 .cm-cursor {display: none;}
+.ͼ3 .cm-cursor {border-left-color: #ddd;}
+.ͼ1 .cm-dropCursor {position: absolute;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer .cm-cursor {display: block;}
+.ͼ1 .cm-iso {unicode-bidi: isolate;}
+.ͼ1 .cm-announced {position: fixed; top: -10000px;}
+@media print {.ͼ1 .cm-announced {display: none;}}
+.ͼ2 .cm-activeLine {background-color: #cceeff44;}
+.ͼ3 .cm-activeLine {background-color: #99eeff33;}
+.ͼ2 .cm-specialChar {color: red;}
+.ͼ3 .cm-specialChar {color: #f78;}
+.ͼ1 .cm-gutters {flex-shrink: 0; display: flex; height: 100%; box-sizing: border-box; inset-inline-start: 0; z-index: 200;}
+.ͼ2 .cm-gutters {background-color: #f5f5f5; color: #6c6c6c; border-right: 1px solid #ddd;}
+.ͼ3 .cm-gutters {background-color: #333338; color: #ccc;}
+.ͼ1 .cm-gutter {display: flex !important; flex-direction: column; flex-shrink: 0; box-sizing: border-box; min-height: 100%; overflow: hidden;}
+.ͼ1 .cm-gutterElement {box-sizing: border-box;}
+.ͼ1 .cm-lineNumbers .cm-gutterElement {padding: 0 3px 0 5px; min-width: 20px; text-align: right; white-space: nowrap;}
+.ͼ2 .cm-activeLineGutter {background-color: #e2f2ff;}
+.ͼ3 .cm-activeLineGutter {background-color: #222227;}
+.ͼ1 .cm-panels {box-sizing: border-box; position: sticky; left: 0; right: 0; z-index: 300;}
+.ͼ2 .cm-panels {background-color: #f5f5f5; color: black;}
+.ͼ2 .cm-panels-top {border-bottom: 1px solid #ddd;}
+.ͼ2 .cm-panels-bottom {border-top: 1px solid #ddd;}
+.ͼ3 .cm-panels {background-color: #333338; color: white;}
+.ͼ1 .cm-tab {display: inline-block; overflow: hidden; vertical-align: bottom;}
+.ͼ1 .cm-widgetBuffer {vertical-align: text-top; height: 1em; width: 0; display: inline;}
+.ͼ1 .cm-placeholder {color: #888; display: inline-block; vertical-align: top;}
+.ͼ1 .cm-highlightSpace {background-image: radial-gradient(circle at 50% 55%, #aaa 20%, transparent 5%); background-position: center;}
+.ͼ1 .cm-highlightTab {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="20"><path stroke="%23888" stroke-width="1" fill="none" d="M1 10H196L190 5M190 15L196 10M197 4L197 16"/></svg>'); background-size: auto 100%; background-position: right 90%; background-repeat: no-repeat;}
+.ͼ1 .cm-trailingSpace {background-color: #ff332255;}
+.ͼ1 .cm-button {vertical-align: middle; color: inherit; font-size: 70%; padding: .2em 1em; border-radius: 1px;}
+.ͼ2 .cm-button:active {background-image: linear-gradient(#b4b4b4, #d0d3d6);}
+.ͼ2 .cm-button {background-image: linear-gradient(#eff1f5, #d9d9df); border: 1px solid #888;}
+.ͼ3 .cm-button:active {background-image: linear-gradient(#111, #333);}
+.ͼ3 .cm-button {background-image: linear-gradient(#393939, #111); border: 1px solid #888;}
+.ͼ1 .cm-textfield {vertical-align: middle; color: inherit; font-size: 70%; border: 1px solid silver; padding: .2em .5em;}
+.ͼ2 .cm-textfield {background-color: white;}
+.ͼ3 .cm-textfield {border: 1px solid #555; background-color: inherit;}
+.ͼ1 .cm-foldPlaceholder {background-color: #eee; border: 1px solid #ddd; color: #888; border-radius: .2em; margin: 0 1px; padding: 0 1px; cursor: pointer;}
+.ͼ1 .cm-foldGutter span {padding: 0 1px; cursor: pointer;}
+ body{--text-warning: #eaaf00;--text-success: green}.status-metadata-container,.status-name-container{display:flex;gap:.5rem}.initiative-tracker-add-player-modal .has-error{border-color:var(--background-modifier-error-hover)}.initiative-tracker-additional-container{border-bottom:0px solid var(--background-modifier-border);padding:18px 0;background-color:inherit}.initiative-tracker-additional-container .initiative-tracker-players{display:grid;grid-template-columns:3fr 1fr 1fr 1fr 1fr auto;gap:.5rem}.initiative-tracker-settings .initiative-tracker-additional-container .initiative-tracker-players .initiative-tracker-player{display:contents}.initiative-tracker-settings .initiative-tracker-additional-container .initiative-tracker-players .initiative-tracker-player>*:not(:first-child){text-align:center}.initiative-tracker-settings .initiative-tracker-additional-container .initiative-tracker-players .initiative-tracker-player .initiative-tracker-player-icon{display:grid;grid-template-columns:auto auto;gap:.5rem}.initiative-tracker-settings .initiative-tracker-additional-container .initiative-tracker-players .initiative-tracker-player .initiative-tracker-player-icon.imported{display:flex;justify-content:center;width:auto;color:var(--text-success)}.initiative-tracker-settings .initiative-tracker-additional-container .initiative-tracker-players .initiative-tracker-player.headers{font-weight:bolder}.initiative-tracker-settings .initiative-tracker-additional-container .initiative-tracker-players .initiative-tracker-player.headers .clickable-icon,.initiative-tracker-settings .initiative-tracker-additional-container .initiative-tracker-players .initiative-tracker-player.headers .clickable-icon:hover{color:var(--text-normal)}.initiative-tracker-settings .initiative-synced{border-top:0px;margin:0 2rem;padding-top:0}.initiative-tracker-settings .initiative-synced .setting-item-name{color:var(--interactive-success);display:grid;grid-template-columns:auto 1fr;align-items:center;gap:.5rem}.initiative-tracker-settings .initiative-tracker-monster-filter{position:sticky;top:-5px;padding-top:5px;background-color:inherit;z-index:1}.initiative-tracker-settings .initiative-tracker-file-upload>input[type=file]{display:none}.initiative-tracker-additional-container>.additional{margin:6px 12px}.initiative-tracker-additional-container>.additional>.setting-item{border-top:0;padding-top:9px}.initiative-tracker-additional-container>.additional>.setting-item>.setting-item-control>*:first-child{margin:0 6px}.initiative-tracker-settings .initiative-status-item .setting-item-description{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;word-break:keep-all;overflow:hidden}.tooltip.initiative-tracker-condition-tooltip{text-align:left;word-break:keep-all}.block-language-encounter .encounter-container{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}.initiative-tracker-settings .coffee{width:60%;color:var(--text-faint);margin:1rem auto;text-align:center}.initiative-tracker-settings .coffee img{height:30px}.creature-view-container{padding:.5rem}.creature-view-container .creature-statblock-container{display:flex;justify-content:center}.creature-view-container .statblock .column{max-width:400px;width:100%}.creature-view-container .creature-view-button{display:flex;justify-content:flex-end;position:absolute;right:5px;top:5px}.initiative-tracker-encounter-line{display:inline-block}.initiative-tracker-settings details>summary{outline:none;display:block!important;list-style:none!important;list-style-type:none!important;min-height:1rem;border-top-left-radius:.1rem;border-top-right-radius:.1rem;cursor:pointer;position:relative}.initiative-tracker-settings details>summary::-webkit-details-marker,.initiative-tracker-settings details>summary::marker{display:none!important}.initiative-tracker-settings details>summary>.collapser{position:absolute;top:50%;right:8px;transform:translateY(-50%);content:""}.initiative-tracker-settings details>summary>.collapser>.handle{transform:rotate(0);transition:transform .25s;background-color:currentColor;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain;-webkit-mask-image:var(--admonition-details-icon);mask-image:var(--admonition-details-icon);width:20px;height:20px}.initiative-tracker-settings details[open]>summary>.collapser>.handle{transform:rotate(90deg)}.initiative-tracker-settings details>summary{border-bottom:1px solid var(--background-modifier-border)}.initiative-tracker-warning{color:var(--text-error);display:flex;gap:.25rem;align-items:center}.initiative-tracker-settings details>summary+.setting-item,.initiative-tracker-explanation+.setting-item{border-top:0}.initiative-tracker-explanation{padding-top:16px}.initiative-tracker-cancel{display:flex;justify-content:flex-end}.initiative-tracker-textarea+.cm-editor{height:200px;margin-bottom:1rem}.initiative-tracker.suggestion-item .name,.initiative-tracker.suggestion-item>svg{display:flex;align-items:center;gap:.25rem}.waiting-for-bestiary.is-loading{display:flex;justify-content:center;font-style:italic;color:var(--text-muted)}.waiting-for-bestiary.inline{display:flex;align-items:center;gap:.25rem;font-size:var(--font-small);--icon-size: var(--icon-s)}.waiting-for-bestiary.inline .icon{display:flex;align-items:center;animation:rotation 1s ease infinite}@keyframes rotation{0%{transform:scale(1) rotate(-60deg)}20%{transform:rotate(-90deg)}50%{transform:rotate(690deg)}to{transform:rotate(660deg)}}
+ 
+.pandoc-plugin-error {
+    color: red;
+}
+  .progress.svelte-1ynmm81 {font-size:14px;} .encounter-builder.svelte-95ft2e{margin:1rem} .players-xp.svelte-jz7gin{display:grid;grid-template-columns:1fr 1fr} .players.svelte-wi0lrc.svelte-wi0lrc{display:flex;flex-flow:column;gap:0.25rem}.player.svelte-wi0lrc.svelte-wi0lrc{display:flex;justify-content:space-between;align-items:center}input.svelte-wi0lrc.svelte-wi0lrc{text-align:center;width:40px}.disabled.svelte-wi0lrc>.player-name.svelte-wi0lrc{text-decoration:line-through}.disabled.svelte-wi0lrc.svelte-wi0lrc{color:var(--text-faint)}.player-right.svelte-wi0lrc.svelte-wi0lrc{display:flex;align-items:center;gap:0.25rem}.add-player.svelte-wi0lrc.svelte-wi0lrc{display:flex;align-items:center;justify-content:flex-end} details.svelte-r6lzam>summary.svelte-r6lzam.svelte-r6lzam{outline:none;display:flex !important;align-items:center;justify-content:space-between;gap:0.25rem;list-style:none !important;list-style-type:none !important;min-height:1rem;border-top-left-radius:0.1rem;border-top-right-radius:0.1rem;cursor:pointer;position:relative;margin-bottom:1rem}details.svelte-r6lzam>summary.svelte-r6lzam.svelte-r6lzam::-webkit-details-marker,details.svelte-r6lzam>summary.svelte-r6lzam.svelte-r6lzam::marker{display:none !important}details.svelte-r6lzam>summary.svelte-r6lzam>.collapser.svelte-r6lzam{position:relative;display:flex;align-items:center}details.svelte-r6lzam>summary .collapser.svelte-r6lzam>.handle.svelte-r6lzam{transform:rotate(0deg);transition:transform 0.25s;background-color:currentColor;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain;-webkit-mask-image:var(--admonition-details-icon);mask-image:var(--admonition-details-icon);width:20px;height:20px}details[open].svelte-r6lzam>summary .collapser.svelte-r6lzam>.handle.svelte-r6lzam{transform:rotate(90deg)}details.svelte-r6lzam>summary.svelte-r6lzam.svelte-r6lzam{border-bottom:1px solid var(--background-modifier-border)}details.svelte-r6lzam>summary.svelte-r6lzam.svelte-r6lzam{border-bottom:1px solid var(--background-modifier-border)} .title-container.svelte-1x58p02{display:flex;flex-flow:column nowrap;gap:0.1rem}.title.svelte-1x58p02{margin-bottom:0}.content.svelte-1x58p02{display:flex;flex-flow:column nowrap;gap:0.25rem}.filtered.svelte-1x58p02{font-size:smaller;color:var(--text-muted)}.xp-container.svelte-1x58p02{margin-left:auto}.xp.svelte-1x58p02{display:flex;gap:1rem}.thresholds.svelte-1x58p02{display:flex;flex-flow:column;gap:0.5rem}.experience-amount.svelte-1x58p02{margin-left:auto}.encounter-difficulty.svelte-1x58p02{display:flex;flex-flow:column nowrap;gap:0.5rem;margin-bottom:1rem}.container.svelte-1x58p02{display:flex;flex-flow:column nowrap}.header.svelte-1x58p02{text-transform:uppercase;font-weight:bolder} .encounter-name.svelte-1s1acwo{display:flex;align-items:center}.encounter-header.svelte-1s1acwo{display:flex;align-items:center;justify-content:space-between}.encounter-creatures.svelte-1s1acwo{display:flex;gap:0.5rem;flex-flow:column nowrap}.encounter-header.svelte-1s1acwo .is-disabled{cursor:not-allowed}.encounter-controls.svelte-1s1acwo{display:flex;gap:0.5rem;align-items:center} .filters.svelte-rwomh{margin:1rem 0}.table-header.svelte-rwomh{display:flex;gap:0.25rem}.has-icon.svelte-rwomh{display:flex;align-items:center}table.svelte-rwomh{width:100%} .filters-container.svelte-1teebz7{display:flex;flex-flow:column nowrap;gap:1rem}.controls.svelte-1teebz7{display:flex;justify-content:space-between;align-items:center;gap:0.5rem}.filter-button.svelte-1teebz7{position:relative}.filter-number.svelte-1teebz7{position:absolute;bottom:0;right:0;background-color:var(--interactive-normal);border-radius:50%;width:14px;height:14px;display:flex;align-items:center;justify-content:center;font-size:var(--font-smallest);pointer-events:none}.filters.svelte-1teebz7{display:flex;flex-flow:column nowrap;gap:1rem} .search.svelte-1xutc2s,.search.svelte-1xutc2s input{width:100%} .pagination.svelte-zo5pkp{display:flex;justify-content:space-between;align-items:center;gap:1rem}.paginated-container.svelte-zo5pkp{display:flex;align-items:center;gap:1rem}.paginated.svelte-zo5pkp{display:flex;align-items:center;gap:1rem}.clickable-icon.active.svelte-zo5pkp{background-color:var(--background-modifier-hover)}.slicer.svelte-zo5pkp{display:flex;align-items:center;gap:0.5rem}undefined
+</style>
+    </head>
+    <body>
+<h1 data-heading="Citella Mollen - Player Handout" dir="auto">Citella Mollen - Player Handout</h1>
+<p dir="auto">This document provides an account of the events and lore your character, Citella Mollen, experience prior to the start of the campaign. It describes Citella's background as a member of the Velvet Fang and the events leading up to her on a ship sailing near the peninsula of Haranshire.</p>
+<h2 data-heading="The Story So Far..." dir="auto">The Story So Far...</h2>
+<h2 data-heading="Haranshire" dir="auto">Haranshire</h2>
+<p dir="auto">Haranshire is a modestly populated peninsula located on the southwestern rim of Dekadium. Roughly thirty miles long, Haranshire is cut off from the main land by mountains to the north, scattered by low wooded hills, and threaded by the Haran River. Haranshire isn't blessed with much good agricultural land, and there is much wild land—woods and hills, marsh and moor, so sheep pastures, small crop fields, and a few silver‑and‑gem mines support its scattered settlements.</p>
+<h2 data-heading="The Velvet Fang" dir="auto">The Velvet Fang</h2>
+<h3 data-heading="Description" dir="auto">Description</h3>
+<p dir="auto">Founded three centuries ago by a palace concubine that's believed to have established major political power using a royal writ and signet smuggled inside her corset, The Velvet Fang is a secret mutual-aid society of women, many of them sex-workers, barmaids, and brothel-keepers, who utilize society’s expectations of women as subversion to establish unseen control. Members are most typically recruited as downtrodden workers by kind business owners who offer them food and bed in exchange for membership. Once recruited, initiates are taught the ways of defending themselves and others from the patriarchal dangers, both physically and socially.</p>
+<p dir="auto">Though outsiders imagine them merely courtesans with knives, the Fang’s inner circle maintains archives of blackmail, dossiers on tyrants, and a monastic curriculum. Their ultimate goal is not full control or rulership but corrected balance: toppling abusers, shielding the exploited, and ensuring knowledge and gold flows from the hoarded hands of the affluent back to the street.</p>
+<h3 data-heading="Location" dir="auto">Location &nbsp;</h3>
+<p dir="auto">The Velvet Fang is intentionally decentralized, possessing no major base of operation, instead operations are typically performed by dispersed individual members or out of public facing establishments, typically brothels. The language and customs of the Fang allow members to identify sites, both friendly and unfriendly. Secret signals within colored strips of velvet, choreography of dancers, and variation in perfume scent can denote the true nature of an establishment.</p>
+<p dir="auto">As the Fang is a word of mouth organization, density is typically clustered around urban centers. However, some members of the Fang are given the explicit task of spreading the word to less traveled parts of the world.</p>
+<h3 data-heading="Beliefs and Practices" dir="auto">Beliefs and Practices &nbsp;</h3>
+<ul>
+<li dir="auto">
+<p><strong>Knowledge and Misinformation:</strong> Information undispersed is a still venom; we are the serpents that inject it. Share knowledge with your sisters in velvet and misinform those that seek to harm. Do whatever you must to acquire it.</p>
+</li>
+<li dir="auto">
+<p><strong>Aid and Sanctuary:</strong> A lone woman in flight is a thread undone; we are the loom that mends it. Any woman fleeing violence is offered bed, bread, and bereavement for one night without question. She is to be offered membership into the Fang, but must not be coerced. Her departure is to be guided and safe.</p>
+</li>
+<li dir="auto">
+<p><strong>Silk and Steel:</strong> An unseen serpent has the sharpest Fangs; we are the Velvet that hides it. Use concealed weapons, exploit blind spots, and remain unforeseen. Under estimation is leverage to be used.</p>
+</li>
+</ul>
+<h3 data-heading="Organization Structure" dir="auto">Organization Structure &nbsp;</h3>
+<ul>
+<li dir="auto">
+<p><strong>Madame</strong>: Some claim every major directive of the Velvet Fang comes from “the Madame,” a figure no one can verify. Rumors between Sisters say she is the current ruler of Mezobhan, Queen Aurellia Cresces.</p>
+</li>
+<li dir="auto">
+<p><strong>Aunts</strong>: Aunts are sitting politicians and titled noblewomen. They use their positions of power to further the Fang's cause. They often act as regional overseers.</p>
+</li>
+<li dir="auto">
+<p><strong>Mothers</strong>: Mothers run the public fronts: brothels, taverns, theaters, river barges. They recruit new blood, maintain safehouses, supply false papers and weapons, and hand out everyday assignments.</p>
+</li>
+<li dir="auto">
+<p><strong>Sisters</strong>: Sisters are fully trained field operatives. They handle surveillance, extractions, blackmail drops, bodyguard work, and sabotage.</p>
+</li>
+<li dir="auto">
+<p><strong>Daughters</strong>: Daughters are recruits that are undergoing training in close combat, hidden weapons, coded speech, and the trade of secrets. Until graduation they take only low-risk tasks under Sister supervision and may kill only in clear self-defense.</p>
+</li>
+</ul>
+<h3 data-heading="Monastic Tradition: Way of the Velvet Fang" dir="auto">Monastic Tradition: Way of the Velvet Fang</h3>
+<p dir="auto">Monks of the Way of the Velvet Fang turn grace, deception, and martial prowess into a single martial discipline. They read an enemy’s heartbeat through a casual touch, slip needles between ribs while offering a toast, and strike tiny nerve clusters that leave even ogres gasping for air.</p>
+<p dir="auto">Velvet Fang monks are recruited from dancers, barmaids, and courtesans who refuse to remain easy prey. Their training hall might be the locked dressing-room of a brothel or the shadowed rafters above a tavern stage. Lessons mix pressure-point anatomy, coded body language, and the art of moving softly.</p>
+<p dir="auto">These monks dress to be underestimated: soft silks and inviting smiles mask hidden daggers and secret agendas. On the road they act as discreet guardians of the downtrodden, offering quiet shelter to the abused and swift violence to the abuser.</p>
+    </body>
+</html>

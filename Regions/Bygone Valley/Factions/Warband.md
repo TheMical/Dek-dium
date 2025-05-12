@@ -1,4 +1,3 @@
-
 # Summary
 ***
 The Warband, an amalgamation of Humanoids, Goblinoids, and Intelligent Monsters hailing from the harsh Roving Wastes, stands as a formidable force threatening the peace of the lands below. Led by the enigmatic Orc Warlock, Overlord Dreadfuel, the Warband operates with a structured hierarchy, utilizing autonomous raiding groups to spread chaos and fear.
