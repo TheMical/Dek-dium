@@ -1,5 +1,8 @@
+# Citella Mollen - Player Handout
 ## The Story So Far...
+Citella was working in a busy port-city brothel when a stranger noticed the crescent scar beneath her right ear and hinted at secret family ties. Unsure what to do, she asked her Velvet Mother for guidance. Though free to choose her own path, her Mother suggested field work, feeling it might be the perfect fit. For her first assignment, Citella was sent to investigate the Grey Gull, a swift clipper suspected of slave trading, and just so happen to be an ideal way to travel west.
 
+Citella boarded the the Grey Gull and began her investigation. While it seemed the ship, and Captain Hagthar himself, were dealing in shady goods she had yet to find concrete evidence of people dealing. However, during a quick stop, as the ship neared Haranshire’s natural harbor, it struck a hidden reef and began to founder. In the chaos that followed, a band of lizardmen raided the crippled vessel, overwhelming the crew and dragging Citella and one sailor into the swampy night.
 ## Haranshire
 Haranshire is a modestly populated peninsula located on the southwestern rim of Dekadium. Roughly thirty miles long, Haranshire is cut off from the main land by mountains to the north, scattered by low wooded hills, and threaded by the Haran River. Haranshire isn't blessed with much good agricultural land, and there is much wild land—woods and hills, marsh and moor, so sheep pastures, small crop fields, and a few silver‑and‑gem mines support its scattered settlements.
 ## The Velvet Fang
@@ -33,3 +36,12 @@ Monks of the Way of the Velvet Fang turn grace, deception, and martial prowess i
 Velvet Fang monks are recruited from dancers, barmaids, and courtesans who refuse to remain easy prey. Their training hall might be the locked dressing-room of a brothel or the shadowed rafters above a tavern stage. Lessons mix pressure-point anatomy, coded body language, and the art of moving softly.
 
 These monks dress to be underestimated: soft silks and inviting smiles mask hidden daggers and secret agendas. On the road they act as discreet guardians of the downtrodden, offering quiet shelter to the abused and swift violence to the abuser.
+### Background: Velvet Fang Operative
+
+**Skill Proficiencies:** Deception, Insight  
+**Tool Proficiencies:** Disguise Kit, one type of musical instrument
+**Languages:** Common, Thieves' Cant 
+**Equipment:** A set of traveler clothes with a hooded cloak, a set of fine clothes (generally flow-y or otherwise ostentatious), a velvet strip embroidered with a unique pattern, a disguise kit, and 15 gp.
+
+#### Feature: Velvet Network  
+You know the secret signs, safe houses, and contacts of the Velvet Fang. In any settlement where the Fang operate, you can find a hidden refuge, often a back-room of a brothel, a secure tavern booth, or a map-marked safe house, where you can rest, eat a meal, and receive discrete assistance. Allies in the network will also share local rumors and minor favors.
